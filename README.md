@@ -4,3 +4,7 @@
   <h1>Chegou uma mensagem pra você</h1>
   <p>Obrigado pela atenção!</p>
 </body>
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <tittle>Chegou uma mensagem pra você</tittle>
+</head>
